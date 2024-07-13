@@ -1,1 +1,7 @@
-ruchika 
+ruchika
+
+ Run
+
+  git config --global user.email "ruchikakale2001@gmail.com"
+  git config --global user.name "RuchikaKale7"
+
